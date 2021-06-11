@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactappkai/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/reactappkai/static/js/main.39d87d21.chunk.js",
+    "main.js.map": "/reactappkai/static/js/main.39d87d21.chunk.js.map",
+    "runtime-main.js": "/reactappkai/static/js/runtime-main.b7cbfbdc.js",
+    "runtime-main.js.map": "/reactappkai/static/js/runtime-main.b7cbfbdc.js.map",
+    "static/js/2.4aaa48cd.chunk.js": "/reactappkai/static/js/2.4aaa48cd.chunk.js",
+    "static/js/2.4aaa48cd.chunk.js.map": "/reactappkai/static/js/2.4aaa48cd.chunk.js.map",
+    "static/js/3.65b3dbb8.chunk.js": "/reactappkai/static/js/3.65b3dbb8.chunk.js",
+    "static/js/3.65b3dbb8.chunk.js.map": "/reactappkai/static/js/3.65b3dbb8.chunk.js.map",
+    "index.html": "/reactappkai/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/reactappkai/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.4aaa48cd.chunk.js.LICENSE.txt": "/reactappkai/static/js/2.4aaa48cd.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/reactappkai/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7cbfbdc.js",
+    "static/js/2.4aaa48cd.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.39d87d21.chunk.js"
+  ]
+}
