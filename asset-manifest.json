@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/reactappkai/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/reactappkai/static/js/main.39d87d21.chunk.js",
-    "main.js.map": "/reactappkai/static/js/main.39d87d21.chunk.js.map",
+    "main.js": "/reactappkai/static/js/main.ccb8dff7.chunk.js",
+    "main.js.map": "/reactappkai/static/js/main.ccb8dff7.chunk.js.map",
     "runtime-main.js": "/reactappkai/static/js/runtime-main.b7cbfbdc.js",
     "runtime-main.js.map": "/reactappkai/static/js/runtime-main.b7cbfbdc.js.map",
     "static/js/2.4aaa48cd.chunk.js": "/reactappkai/static/js/2.4aaa48cd.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.b7cbfbdc.js",
     "static/js/2.4aaa48cd.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.39d87d21.chunk.js"
+    "static/js/main.ccb8dff7.chunk.js"
   ]
 }
